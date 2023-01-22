@@ -110,7 +110,7 @@
         <item>"0,0,-1,-4,-4,5,4"</item>
     </string-array>
      
-         <string-array name="scenario_selector_titles" translatable="false">
+        <string-array name="scenario_selector_titles" translatable="false">
         <item>@string/music_headset_scenario_intelligent</item>
         <item>@string/music_headset_scenario_music</item>
         <item>@string/music_headset_scenario_video</item>
