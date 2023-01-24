@@ -110,10 +110,10 @@ public class DiracSettingsFragment extends PreferenceFragment implements
         if (mDiracUtils == null) return;
         mDiracUtils.setEnabled(isChecked);
 
-        mHifi.setEnabled(isChecked);
         mHeadsetType.setEnabled(isChecked);
         mPreset.setEnabled(isChecked);
         mScenes.setEnabled(isChecked);
+        mHifi.setEnabled(isChecked);
 
         if (!isChecked){
             mHifi.setChecked(false);
