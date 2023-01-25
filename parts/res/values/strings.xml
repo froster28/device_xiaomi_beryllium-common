@@ -89,7 +89,7 @@
     <string name="raise_to_wake_gesture_title">Raise to wake</string>
     <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
      
-    <!-- Scene Selection -->
+    <!-- Mi Sound Scenes -->
     <string name="music_headset_scenario_select">Select scene</string>
     <string name="music_headset_scenario_intelligent">Smart</string>
     <string name="music_headset_scenario_music">Music</string>
